@@ -23,17 +23,17 @@
 
 
    <p align="left">
-  <a href="https://github.com/SohailmodsXD/KING-MD/fork">
-    <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
+  <a href="https://github.com/SohailmodsXD/Sohail-XD/fork">
+    <img src="https://img.shields.io/github/forks/SohailmodsXD/Sohail-XD?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/naveeddogar/KING-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/naveeddogar/KING-MD?style=social">
+  <a href="https://github.com/SohailmodsXD/SOHAIL-XD/stargazers">
+    <img src="https://img.shields.io/github/stars/naveeddogar/Sohail-XD?style=social">
       
   
  
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SohailXd}/count.svg" alt="sohailxd :: Visitor's Count" /></p>
 <p align="center">
  <a href="https://chat.whatsapp.com/L12NDt8MGLk3HmpiPX6stz" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -104,7 +104,7 @@
 
 2. Now Deploy
     <br>
-<a href='https://replit.com/github/naveeddogar/KING-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://replit.com/github/sohailmodsxd/sohail-xd' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 ---
 
